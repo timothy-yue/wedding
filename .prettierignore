@@ -6,3 +6,5 @@ public
 .gitignore
 eslint.config.mjs
 tsconfig.json
+
+pnpm-lock.yaml
