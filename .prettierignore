@@ -1,0 +1,8 @@
+.cursor
+.next
+.vscode
+public
+
+.gitignore
+eslint.config.mjs
+tsconfig.json

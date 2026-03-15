@@ -1,9 +1,11 @@
-@import "tailwindcss";
+@import 'tailwindcss';
 
 :root {
-  --font-display: var(--font-cormorant), "Iowan Old Style", "Palatino Linotype", Georgia, serif;
+  --font-display:
+    var(--font-cormorant), 'Iowan Old Style', 'Palatino Linotype', Georgia,
+    serif;
   --font-sans:
-    var(--font-jost), "Segoe UI", "Helvetica Neue", Helvetica, sans-serif;
+    var(--font-jost), 'Segoe UI', 'Helvetica Neue', Helvetica, sans-serif;
   --canvas: #111210;
   --surface: #191817;
   --ink: #ece7dd;

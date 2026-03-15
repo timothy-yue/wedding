@@ -1,7 +1,7 @@
-"use client";
+'use client';
 
-import type { ReactNode } from "react";
-import { motion, useReducedMotion } from "motion/react";
+import type { ReactNode } from 'react';
+import { motion, useReducedMotion } from 'motion/react';
 
 type AnimatedRevealProps = {
   children: ReactNode;
